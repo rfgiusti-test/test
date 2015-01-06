@@ -1,3 +1,0 @@
-Test
-
-Will be ignored from now on
