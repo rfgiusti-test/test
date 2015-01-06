@@ -4,4 +4,7 @@ Modified
 modified again for amending
 
 Modified before push
+<<<<<<< HEAD
 Modified after push
+=======
+>>>>>>> e41591b56a865ce7fd4c04e51cbde4d72994f7ba
