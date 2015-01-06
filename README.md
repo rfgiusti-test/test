@@ -10,3 +10,11 @@ Now what?
 =========
 
 Now what's here?
+
+
+git add .
+========
+
+What's gonna happen?
+
+Modify this twice
