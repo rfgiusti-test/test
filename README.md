@@ -7,7 +7,7 @@ Table of Contents:
 
 1. [Section 1](#section-1)
 1. [Section 2](#section-2)
-1. [Section 3](#section-3)
+1. [Section 3](#final)
 
 
 ## Section 1
