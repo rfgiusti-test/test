@@ -1,12 +1,4 @@
-I'm not really sure what I'm doing. I'm just trying this thing out.
-
-test
+Test
 ====
 
-Test repository just for me
-
-
-first commit
-============
-
-This is me attempting to do my first commit.
+Conflict?

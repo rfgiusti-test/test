@@ -1,0 +1,5 @@
+# Ignore text files in sub directory
+sub/**/*.txt
+
+# Ignore text files in any notxt/ directory
+**/notxt/**/*.txt
