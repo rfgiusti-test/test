@@ -1,3 +1,1 @@
-Added in remote
-
-Modified
+File modified in remote branch
