@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+void logs(void)
+{
+	printf("This would be a new feature\n");
+}
+
 int main(int argc, char *argv[])
 {
 	int i;
@@ -12,6 +17,9 @@ int main(int argc, char *argv[])
 				break;
 			case 'o':
 				printf("Oi, mundo!\n");
+				break;
+			case 'l':
+				logs();
 				break;
 			default:
 				printf("What's -%c?\n", argv[i][1]);
