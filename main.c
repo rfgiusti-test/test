@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 		if (argv[i][0] == '-') {
 			switch (argv[i][1]) {
 			case 'h':
-				printf("Hello, world!\n");
+				printf("Hello, world!!!\n");
 				break;
 			case 'o':
 				printf("Oi, mundo!\n");
