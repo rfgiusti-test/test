@@ -3,3 +3,7 @@ sub/**/*.txt
 
 # Ignore text files in any notxt/ directory
 **/notxt/**/*.txt
+
+# Blah
+a.out
+.*.swp
